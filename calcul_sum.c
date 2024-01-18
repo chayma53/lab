@@ -14,9 +14,9 @@ void func(int sum) {
 
 int main()
 {
-    printf("Enter a:\n");
+    printf("Enter a=\n");
     scanf("%d", &a);
-    printf("enter b\n");
+    printf("enter b=\n");
     scanf("%d", &b);
 
     return func(sum);
